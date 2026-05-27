@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('Git Clone') {
 			steps {
-				git 'https://github.com/mhaskesarvesh-sudo/flask-cici-project.git'
+				git 'https://github.com/mhaskesarvesh1145-sudo/flask-cici-project.git'
 
 				
 }
